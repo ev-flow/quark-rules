@@ -1,5 +1,5 @@
 {
-    "crime": "Obtain the text that describes a UI element",
+    "crime": "Get the description of a UI element",
     "permission": [],
     "api": [
         {
@@ -13,7 +13,7 @@
             "method": "getContentDescription"
         }
     ],
-    "score": -1.68,
+    "score": 0.52,
     "label": [
         "accessibility service"
     ]

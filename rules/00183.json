@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/hardware/Camera$Parameters;)V"
         }
     ],
-    "score": -0.05,
+    "score": -0.55,
     "label": [
         "camera"
     ],
