@@ -1,5 +1,5 @@
 {
-    "crime": "Write data to a file using a file output stream.",
+    "crime": "Write data to a file",
     "permission": [],
     "api": [
         {
