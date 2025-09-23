@@ -13,7 +13,7 @@
             "descriptor": "([Ljava/lang/String; I)V"
         }
     ],
-    "score": 0.2,
+    "score": -0.37,
     "label": [
         "permission"
     ]

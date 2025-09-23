@@ -15,7 +15,7 @@
             "descriptor": "()Ljava/net/URLConnection;"
         }
     ],
-    "score": 0.48,
+    "score": 0.16,
     "label": [
         "phone",
         "privacy"
