@@ -1,5 +1,5 @@
 {
-    "crime": "Get the description of the UI element",
+    "crime": "Get the description of a UI element",
     "permission": [],
     "api": [
         {
