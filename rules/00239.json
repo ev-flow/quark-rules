@@ -1,0 +1,21 @@
+{
+    "crime": "Establishes a socket connection using a specific network address",
+    "permission": [],
+    "api": [
+        {
+            "descriptor": "(Ljava/net/InetAddress; I)V",
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "<init>"
+        },
+        {
+            "descriptor": "(Ljava/net/SocketAddress; I)V",
+            "class": "Ljava/net/Socket;",
+            "method": "connect"
+        }
+    ],
+    "score": -1.01,
+    "label": [
+        "socket",
+        "network"
+    ]
+}

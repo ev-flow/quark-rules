@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/String; Ljava/lang/String; Landroid/app/PendingIntent; Landroid/app/PendingIntent;)V"
         }
     ],
-    "score": 30.3,
+    "score": -0.85,
     "label": [
         "sms"
     ]

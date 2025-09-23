@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/net/Uri; Ljava/lang/String; [Ljava/lang/String;)I"
         }
     ],
-    "score": 10.78,
+    "score": 0.66,
     "label": [
         "sms"
     ]

@@ -13,6 +13,8 @@
             "method": "callComponentMethod"
         }
     ],
-    "score": 5.93,
-    "label": []
+    "score": 0.06,
+    "label": [
+        ""
+    ]
 }
