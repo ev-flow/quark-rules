@@ -1,5 +1,5 @@
 {
-    "crime": "Builds a gesture description and dispatches it through an accessibility service",
+    "crime": "Builds a gesture description and dispatch it through an accessibility service",
     "permission": [],
     "api": [
         {
