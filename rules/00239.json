@@ -1,5 +1,5 @@
 {
-    "crime": "Establish a socket connection using a specific network address",
+    "crime": "Establishes a socket connection using a specific network address",
     "permission": [],
     "api": [
         {
@@ -13,7 +13,7 @@
             "method": "connect"
         }
     ],
-    "score": 1.01,
+    "score": 1.18,
     "label": [
         "socket",
         "network"

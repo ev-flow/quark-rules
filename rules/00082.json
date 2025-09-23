@@ -13,7 +13,7 @@
             "method": "getMacAddress"
         }
     ],
-    "score": 0.41,
+    "score": 0.72,
     "label": [
         "collection",
         "wifi"

@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String;)V"
         }
     ],
-    "score": 0.38,
+    "score": 0.06,
     "label": [
         "exec",
         "command"

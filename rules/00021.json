@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;"
         }
     ],
-    "score": -0.53,
+    "score": -2.2,
     "label": [
         "reflection"
     ]

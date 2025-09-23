@@ -1,5 +1,5 @@
 {
-    "crime": "Extract screenshot data and compress it as bitmap to an output stream",
+    "crime": "Extract screenshot data and compresses it as bitmap format",
     "permission": [],
     "api": [
         {
@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/graphics/Bitmap$CompressFormat; I Ljava/io/OutputStream;)Z"
         }
     ],
-    "score": -0.81,
+    "score": 0.77,
     "label": [
         "collection"
     ]
