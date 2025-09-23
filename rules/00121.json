@@ -13,7 +13,7 @@
             "method": "mkdirs"
         }
     ],
-    "score": 1.25,
+    "score": -1.25,
     "label": [
         "file",
         "command"

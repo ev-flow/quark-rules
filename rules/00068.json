@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String;)Ljava/lang/Process;"
         }
     ],
-    "score": 0.4,
+    "score": -0.4,
     "label": [
         "control"
     ]

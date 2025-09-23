@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/content/Intent; I)Landroid/content/pm/ResolveInfo;"
         }
     ],
-    "score": 1.43,
+    "score": -1.43,
     "label": [
         "collection",
         "applications",
