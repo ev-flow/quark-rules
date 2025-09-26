@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/content/Context; Landroid/net/Uri;)Landroid/media/Ringtone;"
         }
     ],
-    "score": -7.62,
+    "score": 0.1,
     "label": [
         "collection"
     ]

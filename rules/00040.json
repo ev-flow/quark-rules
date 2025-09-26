@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/String; Ljava/util/ArrayList; Ljava/util/ArrayList; Ljava/util/ArrayList;)V"
         }
     ],
-    "score": 4.72,
+    "score": 0.01,
     "label": [
         "sms"
     ]
