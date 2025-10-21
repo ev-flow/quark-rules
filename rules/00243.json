@@ -1,11 +1,11 @@
 {
-    "crime": "Read the input stream from given URL",
+    "crime": "Connect to a URL and read data from it",
     "permission": [],
     "api": [
         {
-            "descriptor": "()Ljava/io/InputStream;",
+            "descriptor": "()V",
             "class": "Ljava/net/HttpURLConnection;",
-            "method": "getInputStream"
+            "method": "connect"
         },
         {
             "descriptor": "([B)I",
@@ -13,9 +13,10 @@
             "method": "read"
         }
     ],
-    "score": -0.3,
+    "score": 0.85,
     "label": [
+        "command",
         "network",
-        "command"
+        "file"
     ]
 }
