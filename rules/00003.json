@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
         }
     ],
-    "score": -1.03,
+    "score": 0.82,
     "label": [
         "camera"
     ]

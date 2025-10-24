@@ -3,17 +3,17 @@
     "permission": [],
     "api": [
         {
-            "descriptor": "(Ljava/lang/String; Z)V",
-            "class": "Ljava/io/FileOutputStream;",
-            "method": "<init>"
+            "descriptor": "([B)I",
+            "class": "Ljava/io/InputStream;",
+            "method": "read"
         },
         {
-            "descriptor": "([B)V",
+            "descriptor": "([B I I)V",
             "class": "Ljava/io/FileOutputStream;",
             "method": "write"
         }
     ],
-    "score": -1.41,
+    "score": -0.32,
     "label": [
         "file"
     ]
