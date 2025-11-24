@@ -13,7 +13,7 @@
             "method": "connect"
         }
     ],
-    "score": 0.7,
+    "score": -0.75,
     "label": [
         "socket",
         "network"
