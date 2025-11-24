@@ -1,5 +1,5 @@
 {
-    "crime": "Create a window and add a view to it",
+    "crime": "Create a window above all applications and add a view to it",
     "permission": [],
     "api": [
         {
@@ -7,7 +7,11 @@
             "class": "Landroid/view/WindowManager$LayoutParams;",
             "method": "<init>",
             "match_keywords": [
-                "2002"
+                "2002",
+                "2003",
+                "2006",
+                "2010",
+                "2038"
             ]
         },
         {
