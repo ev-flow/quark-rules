@@ -1,5 +1,5 @@
 {
-    "crime": "Create a window above all applications and add a view to it",
+    "crime": "Create an overlay window on top of other applications",
     "permission": [],
     "api": [
         {
