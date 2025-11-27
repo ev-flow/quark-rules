@@ -13,7 +13,7 @@
             "descriptor": "()Ljava/lang/Process;"
         }
     ],
-    "score": 0.15,
+    "score": -0.13,
     "label": [
         "command"
     ]
