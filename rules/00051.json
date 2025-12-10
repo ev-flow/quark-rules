@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/net/Uri;)Landroid/content/Intent;"
         }
     ],
-    "score": 0.5,
+    "score": 0.3,
     "label": [
         "control"
     ]
