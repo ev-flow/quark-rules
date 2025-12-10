@@ -1,5 +1,5 @@
 {
-    "crime": "Set a listener to a button",
+    "crime": "Handle click events of a UI element(Button, TextView, etc)",
     "permission": [],
     "api": [
         {

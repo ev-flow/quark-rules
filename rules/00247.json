@@ -1,5 +1,5 @@
 {
-    "crime": "Connect to an IP address",
+    "crime": "Establish a connection to an IP address",
     "permission": [],
     "api": [
         {
