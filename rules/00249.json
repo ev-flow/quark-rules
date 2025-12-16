@@ -1,5 +1,5 @@
 {
-    "crime": "Read the payment data stored in a NFC card",
+    "crime": "Read the payment data stored in an NFC card",
     "permission": [],
     "api": [
         {

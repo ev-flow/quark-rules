@@ -1,5 +1,5 @@
 {
-    "crime": "Establish a connection to a NFC card",
+    "crime": "Establish a connection to an NFC card",
     "permission": [],
     "api": [
         {
