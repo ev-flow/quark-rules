@@ -13,7 +13,7 @@
             "method": "getIpAddress"
         }
     ],
-    "score": -0.49,
+    "score": 5.33,
     "label": [
         "wifi",
         "collection"

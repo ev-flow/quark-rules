@@ -1,5 +1,5 @@
 {
-    "crime": "Acquire lock on Power Manager ",
+    "crime": "Acquire lock on Power Manager",
     "permission": [
         "android.permission.WAKE_LOCK"
     ],
@@ -15,7 +15,7 @@
             "descriptor": "()V"
         }
     ],
-    "score": -1.4,
+    "score": -3.12,
     "label": [
         "lock",
         "power manager"
