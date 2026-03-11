@@ -1,5 +1,5 @@
 {
-    "crime": "Get notification manager and cancel notifications ",
+    "crime": "Get notification manager and cancel notifications",
     "permission": [],
     "api": [
         {
@@ -13,7 +13,7 @@
             "descriptor": "()V"
         }
     ],
-    "score": -0.91,
+    "score": -22.18,
     "label": [
         "notification"
     ]
