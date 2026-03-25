@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/graphics/Bitmap$CompressFormat; I Ljava/io/OutputStream;)Z"
         }
     ],
-    "score": -12.05,
+    "score": -10.92,
     "label": [
         "camera"
     ]
