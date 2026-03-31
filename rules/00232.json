@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/content/Context; Ljava/lang/Class;)V"
         }
     ],
-    "score": 8.91,
+    "score": 10.04,
     "label": [
         "applications",
         "control"
