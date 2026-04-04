@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/net/Uri; Ljava/lang/String;)Landroid/content/Intent;"
         }
     ],
-    "score": 9.19,
+    "score": 9.03,
     "label": [
         "reflection"
     ]

@@ -13,7 +13,7 @@
             "descriptor": "()Landroid/content/ContentResolver;"
         }
     ],
-    "score": 0.6,
+    "score": 0.39,
     "label": [
         "collection"
     ]
