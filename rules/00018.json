@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; J F Landroid/location/LocationListener;)V"
         }
     ],
-    "score": -13.07,
+    "score": -13.23,
     "label": [
         "location",
         "collection"
