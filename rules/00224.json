@@ -13,7 +13,7 @@
             "descriptor": "()Landroid/net/NetworkInfo;"
         }
     ],
-    "score": -3.39,
+    "score": -3.6,
     "label": [
         "collection",
         "network"

@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/nio/Buffer;)V"
         }
     ],
-    "score": 7.92,
+    "score": 7.71,
     "label": [
         "collection"
     ]
