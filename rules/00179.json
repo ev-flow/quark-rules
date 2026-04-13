@@ -17,7 +17,7 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/String; Ljava/lang/String; Landroid/app/PendingIntent; Landroid/app/PendingIntent;)V"
         }
     ],
-    "score": -0.28,
+    "score": -0.35,
     "label": [
         "location",
         "collection"

@@ -13,7 +13,7 @@
             "method": "getInputStream"
         }
     ],
-    "score": 2.27,
+    "score": 2.22,
     "label": [
         "command",
         "network"
