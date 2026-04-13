@@ -13,7 +13,7 @@
             "descriptor": "(I Ljava/net/InetAddress; I)V"
         }
     ],
-    "score": 13.15,
+    "score": 13.1,
     "label": [
         "socket"
     ]
