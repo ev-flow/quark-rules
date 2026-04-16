@@ -1,22 +1,20 @@
 {
-    "crime": "Query data from URI (SMS, CALLLOGS)",
+    "crime": "Accessing sensitive data from content provider",
     "permission": [],
     "api": [
-        {
-            "class": "Landroid/net/Uri;",
-            "method": "parse",
-            "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;"
-        },
         {
             "class": "Landroid/content/ContentResolver;",
             "method": "query",
             "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;"
+        },
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "moveToFirst",
+            "descriptor": "()Z"
         }
     ],
-    "score": -5.06,
+    "score": 0.12,
     "label": [
-        "sms",
-        "calllog",
         "collection"
     ]
 }

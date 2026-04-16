@@ -13,7 +13,7 @@
             "method": "getNetworkOperatorName"
         }
     ],
-    "score": -6.14,
+    "score": -0.56,
     "label": [
         "telephony",
         "collection"

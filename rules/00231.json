@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; I)Landroid/content/pm/PackageInfo;"
         }
     ],
-    "score": 16.95,
+    "score": 0.03,
     "label": [
         "collection",
         "applications"
