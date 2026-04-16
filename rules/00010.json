@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
     ],
-    "score": 10.45,
+    "score": 1.42,
     "label": [
         "sms",
         "calllog",
