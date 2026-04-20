@@ -1,0 +1,21 @@
+{
+    "crime": "Access ClassLoader via reflection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getClassLoader",
+            "descriptor": "()Ljava/lang/ClassLoader;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getDeclaredField",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/reflect/Field;"
+        }
+    ],
+    "score": 0.38,
+    "label": [
+        "reflection",
+        "dexClassLoader"
+    ]
+}

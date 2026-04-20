@@ -1,0 +1,21 @@
+{
+    "crime": "Force field access via reflection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Field;",
+            "method": "setAccessible",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getDeclaredField",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/reflect/Field;"
+        }
+    ],
+    "score": 0.22,
+    "label": [
+        "reflection",
+        "evasion"
+    ]
+}

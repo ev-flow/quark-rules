@@ -1,0 +1,21 @@
+{
+    "crime": "Resolve method via reflection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getDeclaredMethod",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;"
+        }
+    ],
+    "score": -0.69,
+    "label": [
+        "reflection",
+        "evasion"
+    ]
+}

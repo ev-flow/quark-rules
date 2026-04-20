@@ -1,0 +1,21 @@
+{
+    "crime": "Invoke method via reflection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "invoke",
+            "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        }
+    ],
+    "score": 2.66,
+    "label": [
+        "reflection",
+        "evasion"
+    ]
+}
