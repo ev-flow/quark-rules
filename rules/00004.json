@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
     ],
-    "score": -1.2,
+    "score": -1.68,
     "label": [
         "file",
         "collection"
