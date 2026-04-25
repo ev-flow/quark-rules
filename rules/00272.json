@@ -1,5 +1,5 @@
 {
-    "crime": "Find a method from given class name, usually for reflection",
+    "crime": "Resolve field via reflection",
     "permission": [],
     "api": [
         {
@@ -9,12 +9,13 @@
         },
         {
             "class": "Ljava/lang/Class;",
-            "method": "getMethod",
-            "descriptor": "(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;"
+            "method": "getDeclaredField",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/reflect/Field;"
         }
     ],
-    "score": 0.17,
+    "score": 1.12,
     "label": [
-        "reflection"
+        "reflection",
+        "evasion"
     ]
 }

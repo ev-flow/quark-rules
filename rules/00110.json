@@ -13,7 +13,7 @@
             "method": "getIccId"
         }
     ],
-    "score": 0.07,
+    "score": -0.3,
     "label": [
         "collection",
         "telephony"
