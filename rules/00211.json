@@ -13,7 +13,7 @@
             "method": "callComponentMethod"
         }
     ],
-    "score": -0.3,
+    "score": -0.36,
     "label": [
         "connection",
         "http"

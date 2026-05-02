@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
         }
     ],
-    "score": 0.09,
+    "score": -1.0,
     "label": [
         "collection"
     ]
