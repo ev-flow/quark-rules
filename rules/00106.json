@@ -13,7 +13,7 @@
             "method": "formatIpAddress"
         }
     ],
-    "score": -0.31,
+    "score": -0.32,
     "label": [
         "collection",
         "wifi"

@@ -1,11 +1,11 @@
 {
-    "crime": "Method reflection",
+    "crime": "Modify PopupWindow width and invoke a method via reflection",
     "permission": [],
     "api": [
         {
-            "class": "Ljava/lang/Class;",
-            "method": "getDeclaredMethod",
-            "descriptor": "(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;"
+            "class": "Landroid/widget/PopupWindow;",
+            "method": "setWidth",
+            "descriptor": "(I)V"
         },
         {
             "class": "Ljava/lang/reflect/Method;",
@@ -13,8 +13,9 @@
             "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
         }
     ],
-    "score": -0.34,
+    "score": 2.17,
     "label": [
-        "reflection"
+        "reflection",
+        "control"
     ]
 }
