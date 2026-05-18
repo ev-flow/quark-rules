@@ -13,7 +13,7 @@
             "method": "getDeviceId"
         }
     ],
-    "score": 0.03,
+    "score": 0.22,
     "label": [
         "collection",
         "telephony"
