@@ -13,7 +13,7 @@
             "descriptor": "(D)Ljava/lang/StringBuilder;"
         }
     ],
-    "score": 0.9,
+    "score": 0.72,
     "label": [
         "location",
         "collection"

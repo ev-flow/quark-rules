@@ -13,7 +13,7 @@
             "descriptor": "()Ljava/net/InetAddress;"
         }
     ],
-    "score": -0.34,
+    "score": -0.55,
     "label": [
         "control",
         "network"

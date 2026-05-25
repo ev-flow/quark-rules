@@ -1,5 +1,5 @@
 {
-    "crime": "Query the current data network type",
+    "crime": "Acquire a wake lock to keep the device awake",
     "permission": [],
     "api": [
         {
@@ -8,14 +8,13 @@
             "descriptor": "(Ljava/lang/String;)Ljava/lang/Object;"
         },
         {
-            "class": "Landroid/telephony/TelephonyManager;",
-            "method": "getNetworkType",
-            "descriptor": "()I"
+            "class": "Landroid/os/PowerManager$WakeLock;",
+            "method": "acquire",
+            "descriptor": "()V"
         }
     ],
-    "score": 0.76,
+    "score": -0.14,
     "label": [
-        "collection",
-        "network"
+        "persistence"
     ]
 }
