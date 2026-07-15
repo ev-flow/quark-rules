@@ -13,7 +13,7 @@
             "descriptor": "()Landroid/accessibilityservice/GestureDescription;"
         }
     ],
-    "score": 0.8,
+    "score": 0.82,
     "label": [
         "accessibility service",
         "control"

@@ -13,7 +13,7 @@
             "method": "getNetworkCountryIso"
         }
     ],
-    "score": -0.11,
+    "score": -0.1,
     "label": [
         "collection",
         "telephony"
