@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/content/Intent;)V"
         }
     ],
-    "score": 2.04,
+    "score": 2.11,
     "label": [
         "reflection",
         "control"
