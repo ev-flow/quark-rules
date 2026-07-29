@@ -16,7 +16,7 @@
             "descriptor": "(Ljava/lang/String;)I"
         }
     ],
-    "score": -0.35,
+    "score": -0.4,
     "label": [
         "collection",
         "calllog"
