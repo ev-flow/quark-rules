@@ -13,7 +13,7 @@
             "descriptor": "()Ljava/io/InputStream;"
         }
     ],
-    "score": 2.01,
+    "score": 1.96,
     "label": [
         "network",
         "http",
