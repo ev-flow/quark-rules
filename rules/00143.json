@@ -13,7 +13,7 @@
             "method": "getClassLoader"
         }
     ],
-    "score": -0.13,
+    "score": -0.25,
     "label": [
         "reflection"
     ]

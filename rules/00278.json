@@ -16,7 +16,7 @@
             "descriptor": "(Landroid/media/CamcorderProfile;)V"
         }
     ],
-    "score": -1.13,
+    "score": -1.1,
     "label": [
         "camera",
         "video",
