@@ -1,19 +1,19 @@
 {
-    "crime": "Get the ISO country code and IMSI",
+    "crime": "Collect device IMEI and subscriber IMSI identifiers",
     "permission": [],
     "api": [
         {
-            "descriptor": "()Ljava/lang/String;",
             "class": "Landroid/telephony/TelephonyManager;",
-            "method": "getNetworkCountryIso"
+            "method": "getDeviceId",
+            "descriptor": "()Ljava/lang/String;"
         },
         {
-            "descriptor": "()Ljava/lang/String;",
             "class": "Landroid/telephony/TelephonyManager;",
-            "method": "getSubscriberId"
+            "method": "getSubscriberId",
+            "descriptor": "()Ljava/lang/String;"
         }
     ],
-    "score": -0.25,
+    "score": 0.86,
     "label": [
         "collection",
         "telephony"
