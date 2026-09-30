@@ -1,5 +1,5 @@
 {
-    "crime": "Execute commands on shell using DataOutputStream object",
+    "crime": "Execute shell command and capture error output",
     "permission": [],
     "api": [
         {
@@ -8,12 +8,12 @@
             "descriptor": "(Ljava/lang/String;)Ljava/lang/Process;"
         },
         {
-            "class": "Ljava/io/DataOutputStream;",
-            "method": "writeBytes",
-            "descriptor": "(Ljava/lang/String;)V"
+            "class": "Ljava/lang/Process;",
+            "method": "getErrorStream",
+            "descriptor": "()Ljava/io/InputStream;"
         }
     ],
-    "score": 0.47,
+    "score": 0.62,
     "label": [
         "exec",
         "command"
