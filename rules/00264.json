@@ -13,7 +13,7 @@
             "descriptor": "()Ljava/util/Iterator;"
         }
     ],
-    "score": 0.94,
+    "score": 1.12,
     "label": [
         "applications",
         "collection"
