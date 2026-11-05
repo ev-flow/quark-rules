@@ -13,7 +13,7 @@
             "descriptor": "([Ljava/lang/Object;)Ljava/lang/Object;"
         }
     ],
-    "score": 1.05,
+    "score": 1.35,
     "label": [
         "reflection",
         "dexClassLoader"
