@@ -13,7 +13,7 @@
             "method": "getResponseCode"
         }
     ],
-    "score": 0.09,
+    "score": -0.01,
     "label": [
         "network",
         "command"
